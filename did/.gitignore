@@ -1,0 +1,29 @@
+# Node modules
+node_modules/
+
+# Build artifacts
+build/
+compiled/
+
+# Truffle specific files
+*.log
+*.json
+*.map
+
+# Environment variables
+.env
+
+# Local configuration files
+*.local
+*.swp
+*.swo
+*.tmp
+
+# IDE files (Optional, include if using these IDEs)
+.vscode/
+.idea/
+*.iml
+
+# OS-specific files
+.DS_Store
+Thumbs.db
